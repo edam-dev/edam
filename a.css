@@ -1,0 +1,55 @@
+h1{
+    padding: 10px;
+    text-align: center;
+    color: #393e46; 
+}
+#navbar-brand{
+width: 145px;
+margin-right: 0px;
+}
+.Department{
+    background-color: #393e46;
+}
+#ConAboutUS{
+    padding: 7% 15%;
+}
+.feature-box{
+    text-align: center;
+    padding: 5%;
+}
+h5{
+    font-size: 1.5rem;
+}
+.imgABoutUS{
+    width:60%;
+    height:70%;
+}
+.socicon{
+    padding: 1%;
+    color: #00adb5;
+}
+html{
+    scroll-behavior: smooth;
+  }
+  body{
+  
+    margin: 0;
+    padding: 0;
+  }
+  .gotopbtn{
+    position: fixed;
+    width: 40px;
+    height: 40px;
+    background: #393e46;
+    bottom: 40px;
+    right: 50px;
+  
+    text-decoration: none;
+    text-align: center;
+    line-height: 50px;
+    color: white;
+    font-size: 18px;
+  }
+  body{
+      background-color: #eeeeee;
+  }
