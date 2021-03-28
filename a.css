@@ -24,10 +24,30 @@ h5{
     width:35%;
     height: 55%;
 }
-.socicon{
+.socmail, .soclin, .socgit, .socinsta, .socwhat{
     padding: 1%;
-    color: #00adb5;
+    color: black;
 }
+
+.socmail:hover{
+    color: #EA4335;
+}
+
+.socinsta:hover{
+    color: #E1306C;
+}
+
+.socgit:hover{
+    color: #333333;
+}
+
+.soclin:hover{
+    color: #0077B5;
+}
+.socwhat:hover{
+    color: #25D366;
+}
+
 html{
     scroll-behavior: smooth;
   }
