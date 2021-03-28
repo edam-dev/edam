@@ -3,6 +3,10 @@ h1{
     text-align: center;
     color: #393e46; 
 }
+.contactlink{
+    text-decoration: none;
+    color: black;
+}
 #navbar-brand{
 width: 145px;
 margin-right: 0px;
@@ -24,7 +28,7 @@ h5{
     width:35%;
     height: 55%;
 }
-.socmail, .soclin, .socgit, .socinsta, .socwhat{
+.socmail, .soclin, .socgit, .socinsta, .socwhat, .socadd, .socall{
     padding: 1%;
     color: black;
 }
@@ -47,7 +51,20 @@ h5{
 .socwhat:hover{
     color: #25D366;
 }
-
+.socadd:hover{
+    color: #f13800;
+}
+.soccall:hover{
+    color: #4c6ef4;
+}
+.contactlist{
+    list-style-type: none;
+    padding: 2%;
+}
+#contactus{
+    /* text-align : center; */
+    font-size: 0.8rem;
+}
 html{
     scroll-behavior: smooth;
   }
@@ -71,5 +88,8 @@ html{
     font-size: 18px;
   }
   body{
+      background-color: #eeeeee;
+  }
+  footer{
       background-color: #eeeeee;
   }
