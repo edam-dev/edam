@@ -16,12 +16,15 @@ h1{
 .feature-box{
     padding: 5%;
 }
+#top{
+    width:100%
+}
 h5{
     font-size: 1.5rem;
 }
 .imgTeam{
     width:35%;
-    height: 55%;
+    height: 60%;
 }
 .socmail, .soclin, .socgit, .socinsta, .socwhat, .socadd, .socall{
     padding: 1%;
@@ -66,6 +69,10 @@ html{
 body{
       margin: 0;
     padding: 0;
+    background-color: #eeeeee;
+  }
+#ConTeam{
+      text-align: center;
   }
   .gotopbtn{
     position: fixed;
@@ -79,17 +86,22 @@ body{
     text-align: center;
     line-height: 50px;
     color: white;
-    font-size: 18px;
-  }
-  body{
-      background-color: #eeeeee;
+    font-size: 25px;
   }
   footer{
       background-color: #eeeeee;
+      text-align: center;
   }
   .homenav{
       color: white;
   }
   .navlogo{
     margin-left: 5%;
+  }
+  #contactus{
+    text-align: center;
+    font-size: 1rem;
+  }
+  .navicon{
+      float: left;
   }
