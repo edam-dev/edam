@@ -1,31 +1,31 @@
-h1{
+/* h1{
     padding: 10px;
     text-align: center;
     color: #393e46; 
-}
-.contactlink{
+} */
+/* .contactlink{
     text-decoration: none;
     color: black;
-}
-.Department{
+} */
+/* .Department{
     background-color: #393e46;
-}
-#ConAboutUS{
+} */
+/* #ConAboutUS{
     padding: 7% 15%;
-}
-.feature-box{
+} */
+/* .feature-box{
     padding: 5%;
-}
-#top{
+} */
+/* #top{
     width:100%
-}
+} */
 h5{
     font-size: 1.5rem;
 }
-.imgTeam{
+/* .imgTeam{
     width:35%;
     height: 60%;
-}
+} */
 .socmail, .soclin, .socgit, .socinsta, .socwhat, .socadd, .socall{
     padding: 1%;
     color: black;
@@ -59,22 +59,22 @@ h5{
     list-style-type: none;
     padding: 2%;
 }
-#contactus{
-    /* text-align : center; */
+/* #contactus{ 
+    text-align : center;
     font-size: 0.8rem;
-}
-html{
+} */
+/* html{
     scroll-behavior: smooth;
-  }
+  } */
 body{
       margin: 0;
     padding: 0;
     background-color: #eeeeee;
   }
-#ConTeam{
+/* #ConTeam{
       text-align: center;
-  }
-  .gotopbtn{
+  } */
+  /* .gotopbtn{
     position: fixed;
     width: 40px;
     height: 40px;
@@ -87,15 +87,15 @@ body{
     line-height: 50px;
     color: white;
     font-size: 25px;
-  }
-  footer{
+  } */
+  /* footer{
       background-color: #eeeeee;
       text-align: center;
-  }
-  .homenav{
+  } */
+  /* .homenav{
       color: white;
-  }
-  .navlogo{
+  } */
+  /* .navlogo{
     margin-left: 5%;
   }
   #contactus{
@@ -104,4 +104,4 @@ body{
   }
   .navicon{
       float: left;
-  }
+  } */
