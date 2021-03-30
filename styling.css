@@ -202,17 +202,18 @@ body{
     background-color: white;
     font-family: sans-serif,bold;
     font-weight: normal;
+    overflow-x: hidden;
   }
 
-.icons{
+/* .icons{
     font-size: 60px;
     margin-right: 10px;
     color: #12a6fc;
 }
 .icons:hover{
     color:white;
-}
-.footerlogo{
+} */
+/* .footerlogo{
     border-radius: 100%;
     padding-top: 15px;
     padding-bottom: 15px;
@@ -237,7 +238,7 @@ footer{
     padding-top: 35px;
     padding-bottom: 35px;
     background-color: #728a7f;
-}
+} */
 * {
     margin: 0;
     box-sizing: border-box;
@@ -1093,6 +1094,128 @@ footer{
 .blh{
   color: white;
 }
-.fclass{
+/* .fclass{
   background-color: #e4e4ed;
+} */
+/* *****abhishek styling****** */
+/* .contactlink{
+  text-decoration: none;
+  color: black;
+}
+#contactus{ 
+  text-align : center;
+  font-size: 1rem;
+} */
+/* h1{
+  padding: 10px;
+  text-align: center;
+  color: #393e46; 
+} */
+.contactlink{
+  text-decoration: none;
+  color: black;
+}
+.Department{
+  background-color: #393e46;
+}
+#ConAboutUS{
+  padding: 7% 15%;
+}
+.feature-box{
+  padding: 5%;
+}
+#top{
+  width:100%
+}
+h5{
+  font-size: 1.5rem;
+}
+.imgTeam{
+  width:35%;
+  height: 60%;
+}
+.socmail, .soclin, .socgit, .socinsta, .socwhat, .socadd, .socall{
+  padding: 1%;
+  color: black;
+}
+
+.socmail:hover{
+  color: #EA4335;
+}
+
+.socinsta:hover{
+  color: #E1306C;
+}
+
+.socgit:hover{
+  color: #333333;
+}
+
+.soclin:hover{
+  color: #0077B5;
+}
+.socwhat:hover{
+  color: #25D366;
+}
+.socadd:hover{
+  color: #f13800;
+}
+.soccall:hover{
+  color: #4c6ef4;
+}
+.contactlist{
+  list-style-type: none;
+  padding: 2%;
+}
+#contactus{
+  text-align : center;
+   font-size: 1rem;
+   background-color: #eeeeee;
+}
+html{
+  scroll-behavior: smooth;
+}
+/* body{
+    margin: 0;
+  padding: 0;
+  background-color: #eeeeee;
+} */
+#ConTeam{
+    text-align: center;
+}
+/* .gotopbtn{
+  position: fixed;
+  width: 40px;
+  height: 40px;
+  background: #393e46;
+  bottom: 40px;
+  right: 50px;
+
+  text-decoration: none;
+  text-align: center;
+  line-height: 50px;
+  color: white;
+  font-size: 25px;
+} */
+footer{
+    background-color: #eeeeee;
+    text-align: center;
+}
+/* .homenav{
+    color: white;
+} */
+/* .navlogo{
+  margin-left: 5%;
+} */
+/* #contactus{
+  text-align: center;
+  font-size: 1rem;
+} */
+/* .navicon{
+    float: left;
+} */
+.teamtitle{
+  margin-top: 7%;
+  margin-bottom: 2%;
+  font-size: 2.5rem;
 }
